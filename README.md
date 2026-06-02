@@ -1,15 +1,40 @@
 <!DOCTYPE html>
-<html>
-     <head>     
-<title>pagina teste</title>
-<meta charset="utf-8">
-</head>
+<html lang="pt-br">
 
-</body>
-      <header>
-          <h1>
-             relampago mcqueen
-           </h1>
-         </header>    
+<body>
 
-         <main>
+<header
+style="
+color: red;
+width: 100%;
+height: 500;
+background-color: black;
+align-self: center;
+text-align: center;
+">
+
+    <h1>
+        Filmes de terror trash
+    </h1>
+
+</header>
+
+<main>
+
+    <p>
+        ...
+    </p>
+
+    <p>
+        ...
+    </p>
+
+    <br>
+
+ 
+
+    <br>
+
+  
+
+</main>
